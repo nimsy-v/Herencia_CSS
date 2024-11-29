@@ -9,11 +9,6 @@ h1 {
   text-align: center;
 }
 
-h2 {
-  color: brown;
-  font-size: 26px;
-}
-
 h3 {
   color: darkred;
 }
@@ -34,7 +29,12 @@ p {
   font-size: 16px;
 }
 
-/* Se aplica Herencia */
+/* Se aplica Herencia en h2 */
+h2 {
+  color: brown;
+  font-size: 26px;
+}
+
 #h2-id {
   color: rgb(182, 13, 182);
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
@@ -46,3 +46,13 @@ p {
 }
 
 /* Se aplica Herencia en lista */
+
+.list {
+  background-color: lightblue;
+}
+li {
+  background-color: pink;
+}
+#list-id {
+  background-color: lavender;
+}

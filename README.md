@@ -35,7 +35,7 @@ Objetivos del proyecto:
 
 ## Enlace para vizualar en GitHub Pages
 
-- GitHub Pages: [Herencia CSS](https://nimsy-v.github.io/Herencia_CSS)
+- GitHub Pages: [Herencia CSS](https://nimsy-v.github.io/Herencia_CSS/)
 
 ## Autor
 
